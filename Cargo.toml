@@ -3,6 +3,11 @@ name = "tilengine-sys"
 version = "0.1.0"
 authors = ["mc1472 <mc1472@protonmail.com>"]
 edition = "2018"
+description = "Free 2D graphics engine with raster effects for retro/classic style game development. Rust bindings."
+repository = "https://github.com/mc1472/rust-tilengine-sys"
+homepage = "https://github.com/mc1472/rust-tilengine-sys"
+readme = "README.md"
+license = "MPL-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
