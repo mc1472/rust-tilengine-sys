@@ -26,7 +26,7 @@ pub enum TLN_LogLevel {
 }
 
 extern {
-    pub fn TLN_GetSpriteStates(nsprite: isize, state : *mut TLN_SpriteState) -> isize;
+    pub fn TLN_GetSpriteStates(nsprite: std::os::raw::c_int, state : *mut TLN_SpriteState) -> bool_;
     pub fn TLN_SetLogLevel(log_level : TLN_LogLevel);
 }
 
