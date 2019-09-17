@@ -1,19 +1,19 @@
 rust-tIlengine-sys
 ===
 
-Low-level rust bindings to [tilengine](http://www.tilengine.org/).
+Low-level rust bindings for [tilengine](http://www.tilengine.org/).
 
 Requirements
 ====
 
-* LInux, Windos, or OS X
+* Linux, Windows, or OS X
 * Rust 1.37 or later
 * [Tilengine](http://www.tilengine.org/)
 
 Documentation
 ====
 
-ToDo
+All functions are the same ones exported from [Tilengine](http://www.tilengine.org/doc/index.html). Use their documentation for what the functions do and the rust foreign function interface to access and call the functions. (See the [examples](https://github.com/mc1472/rust-tilengine-sys/tree/master/examples) to get an idea of how it works.)
 
 License
 ====
