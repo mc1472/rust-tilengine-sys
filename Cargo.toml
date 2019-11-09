@@ -1,6 +1,6 @@
 [package]
 name = "tilengine-sys"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["mc1472 <mc1472@protonmail.com>"]
 edition = "2018"
 description = "Free 2D graphics engine with raster effects for retro/classic style game development. Rust bindings."

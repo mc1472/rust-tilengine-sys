@@ -1,4 +1,4 @@
-rust-tIlengine-sys
+rust-tIlengine-sys [![Crates.io](https://img.shields.io/crates/v/tilengine-sys.svg)](https://crates.io/crates/tilengine-sys)
 ===
 
 Low-level rust bindings for [tilengine](http://www.tilengine.org/).
